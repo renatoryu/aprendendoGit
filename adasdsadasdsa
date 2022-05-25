@@ -1,0 +1,23 @@
+[33mcommit d8d7ff8fe065f90ffff33b36175a0e79d84f60b8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Renato  Cruz <renatoryuu@hotmail.com>
+Date:   Wed May 25 12:19:25 2022 -0300
+
+    Mudando nome do curso de Ansible
+
+[33mcommit 227295c83d17ae8b207772865526c4ffd6c60c3a[m
+Author: Renato  Cruz <renatoryuu@hotmail.com>
+Date:   Wed May 25 12:01:45 2022 -0300
+
+    Alterando nome do curso Docker
+
+[33mcommit c8c72121af98750cac859c8ac9ab87a22a941b96[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Renato  Cruz <renato.cruz@tesla.com.br>
+Date:   Wed May 25 11:13:54 2022 -0300
+
+    Acento adicionado no curso de Integração Contínua
+
+[33mcommit 8898258875d0d03086f406883f2606d1cc6ea54f[m
+Author: Renato  Cruz <renato.cruz@tesla.com.br>
+Date:   Wed May 25 11:09:40 2022 -0300
+
+    Criando arquivo index.html com lista de cursos
